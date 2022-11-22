@@ -17,6 +17,4 @@ You can download this via Github releases by clicking [here](https://github.com/
 
 ![](https://github.com/Theo524/Chess-game/blob/main/app/resources/readme/Chess%20game%20image.png)
 
-#### Note
-I'm relatively new to coding and perhaps the coding style and standards might not be up to the mark.
-The code is heavily commented also
+
