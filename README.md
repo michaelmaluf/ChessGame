@@ -1,9 +1,7 @@
 # ChessBlade
 
-This is a user based chess game made with python tkinter I made for a school project.
+This is a user based chess game made with python tkinter.
 
-### Download
-You can download this via Github releases by clicking [here](https://github.com/Theo524/Chess-game/releases)
 
 ### Game features
 - Login system with password recovery
