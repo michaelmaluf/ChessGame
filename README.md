@@ -13,6 +13,6 @@ This is a user based chess game made with python tkinter.
 - Chess notation/Deleted pieces display/Game FEN
 - Working chess game
 
-![](https://github.com/michaelmaluf/Chess-game/blob/main/app/resources/readme/Chess%20game%20image.png)
+![](https://github.com/michaelmaluf/ChessGame/blob/main/app/resources/readme/Chess%20game%20image.png)
 
 
